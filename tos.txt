@@ -4,20 +4,22 @@ By using GreenAddressIT Ltd products, software, services or web sites you agree 
 
 The information contained in this website is for general information purposes only. The information is provided by GreenAddressIT Ltd and while we endeavor to keep the information up to date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the website or the information, products, services, or related graphics contained on the website for any purpose. Any reliance you place on such information is therefore strictly at your own risk.
 
-In no event will we be liable for any loss or damage including without limitation, indirect or consequential loss or damage, or any loss or damage whatsoever arising from loss of data or profits arising out of, or in connection with, the use of this website.
+In no event will we be liable for any loss or damage including without limitation, indirect or consequential loss or damage, or any loss or damage whatsoever arising from loss of data or profits arising out of, or in connection with, the use of any GreenAddressIT Ltd products, software, services or web sites.
 
 Every effort is made to keep the website up and running smoothly. However, GreenAddressIT Ltd takes no responsibility for, and will not be liable for, the website being temporarily unavailable due to technical issues beyond our control.
 
-GreenAddressIT Ltd takes no responsibility for and will not be liable for any financial loss arising from the use of our wallet service including any of the following.
+GreenAddressIT Ltd takes no responsibility for and will not be liable for any financial loss arising from the use of our wallet service including but not limited to any of the following.
 
 Financial loss due to wallet data being "Brute-forced".
 Financial loss due to server failure or data loss.
 Financial loss due to server hacks or unavailability.
-Financial loss due to forgotten mnemonics.
+Financial loss due to forgotten mnemonics or passwords.
+Financial loss due to lost or inaccessible two factor authentication (2fa) mechanisms.
+Financial loss due to errors calculating network fees.
 Financial loss due to corrupted data on our servers.
 Financial loss due to incorrectly constructed transactions or mistyped bitcoin addresses.
 Financial loss due to "phishing" or other websites masquerading as greenaddress.
-GreenAddressIT Ltd does not pretend to be a bank or regulated financial institution. Any Bitcoin stored using GreenAddressIT Ltd's wallet are not in GreenAddressIT Ltd's control we simply provide an interface to access them. GreenAddressIT Ltd does not have control over or take any responsibility for any transactions made through our wallet service.
+GreenAddressIT Ltd is not a bank or regulated financial institution. Any Bitcoin stored using GreenAddressIT Ltd's wallet are not in GreenAddressIT Ltd's control we simply provide an interface to access them. GreenAddressIT Ltd does not have control over or take any responsibility for any transactions made through our wallet service.
 
 This website refers to virtual currency only. Bitcoin are credit vouchers of which GreenAddressIT Ltd is not the issuer. GreenAddressIT Ltd makes no guarantees that bitcoins can be redeemed at the purchase price. Any exchange rates displayed are provided by 3rd party services and are not indicative of the Bitcoin being backed by any commodity or other form of money or having any other tangible value at all.
 
